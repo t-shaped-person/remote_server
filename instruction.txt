@@ -1,0 +1,6 @@
+pip3 install flask
+
+ubuntu main button > Startup Applications Preferences
+> Add > Name: remote_server
+> Command: > Browser > \remote_server\server_start.sh > Add
+> Close
